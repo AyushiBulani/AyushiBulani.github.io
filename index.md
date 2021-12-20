@@ -16,3 +16,4 @@
 ### Interests:
 ###### 1.Learning how to code using differnet library functions.
 ###### 2.Learning to play instruments
+###### 3.Writing (Here's my WordPress account:https://amentoramen.wordpress.com)
