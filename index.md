@@ -3,9 +3,7 @@
 ###### 1.Highest Educational Qualification: GRADE 12: Delhi Public School, Jodhpur
 ### *Certifications*:
 ###### 1.University of Michigan: Problem Solving using Computational Thinking
-[Ct.pdf](https://github.com/AyushiBulani/AyushiBulani.github.io/files/7745709/Ct.pdf)
 ###### 2.Great Learning: Blockchain Basics
-[Ayushi.pdf](https://github.com/AyushiBulani/AyushiBulani.github.io/files/7745716/Ayushi.pdf)
 ###### 3.Fortis Healthcare:Introduction to Art Therapy
 ### *Volunteer Experience*:
 ###### 1. Education Volunteer.
