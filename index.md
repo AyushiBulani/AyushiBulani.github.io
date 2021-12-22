@@ -1,6 +1,7 @@
 ### Ayushi Bulani's Portfolio
 ### *Education*:
-###### 1.Highest Educational Qualification: GRADE 12: Delhi Public School, Jodhpur
+###### 1. Delhi Public School, Jodhpur
+###### 2. Indian Institute of Technology, Madras
 ### *Certifications*:
 ###### 1.University of Michigan: Problem Solving using Computational Thinking
 ###### 2.Great Learning: Blockchain Basics
